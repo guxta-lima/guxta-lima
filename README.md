@@ -6,21 +6,9 @@ Este é meu perfil de **estudos**: aqui ficam os projetos das disciplinas, os
 exercícios de fundamentos e as coisas que escrevo pra aprender. Minha área é
 desenvolvimento, suporte técnico e informática administrativa.
 
-> 💼 Projetos e portfólio profissional ficam em **[@Guxtastak](https://github.com/Guxtastak)**
 
 ---
 
-### 📂 O que tem aqui
-
-| Repositório | O que é | Stack |
-|---|---|---|
-| **[byte-games](https://github.com/guxta18-rgb/byte-games)** | Loja de games completa: catálogo, vitrine, carrinho e CRUD de produtos, categorias e FAQ. Arquitetura em camadas (entidades JPA, repositórios, controllers), banco modelado em SQL e teste de integração. | `Java 17` `Spring Boot` `Thymeleaf` `JPA` `MySQL` |
-| **[tarefa-express](https://github.com/guxta18-rgb/tarefa-express)** | Painel web que monitora a máquina em tempo real — uso de CPU, memória, uptime e interfaces de rede. | `Node.js` `Express` |
-| **[Calculadora-de-Estatistica-2](https://github.com/guxta18-rgb/Calculadora-de-Estatistica-2)** | Calculadora de estatística descritiva com estética neon, unindo visual técnico, usabilidade e rigor matemático. Cálculo em Python, interface web. | `Python` `HTML` |
-| **[Estrutura-de-dados](https://github.com/guxta18-rgb/Estrutura-de-dados)** | Exercícios e desafios de estruturas de dados, aula por aula — implementados do zero pra entender o que tem por baixo. | `C++` `Python` |
-| **[Sistema-Operacional-FATEC](https://github.com/guxta18-rgb/Sistema-Operacional-FATEC)** | Resumos, estudos de caso e trabalhos da disciplina de Sistemas Operacionais, incluindo uma API de exemplo. | `Markdown` `JavaScript` |
-
----
 
 ### 🎓 Formação
 
