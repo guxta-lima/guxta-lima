@@ -50,8 +50,8 @@ Minha área é desenvolvimento, suporte técnico e informática administrativa.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=guxta-lima&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=07100C&title_color=00FF9C&icon_color=00FF9C&text_color=9FE8C4&ring_color=00FF9C" alt="Estatísticas do GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guxta-lima&layout=compact&langs_count=8&hide_border=true&bg_color=07100C&title_color=00FF9C&text_color=9FE8C4" alt="Linguagens mais usadas" />
+<img height="165" src="https://github-readme-stats-beta-five-21.vercel.app/api?username=guxta-lima&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=07100C&title_color=00FF9C&icon_color=00FF9C&text_color=9FE8C4&ring_color=00FF9C" alt="Estatísticas do GitHub" />
+<img height="165" src="https://github-readme-stats-beta-five-21.vercel.app/api/top-langs/?username=guxta-lima&layout=compact&langs_count=8&hide_border=true&bg_color=07100C&title_color=00FF9C&text_color=9FE8C4" alt="Linguagens mais usadas" />
 
 <br/>
 
@@ -66,8 +66,6 @@ Minha área é desenvolvimento, suporte técnico e informática administrativa.
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/guxta-lima/guxta-lima/output/snake.svg" alt="Cobrinha comendo o gráfico de contribuições" width="100%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=guxta-lima&bg_color=07100C&color=9FE8C4&line=00FF9C&point=E6FFF4&area=true&area_color=00FF9C&hide_border=true&radius=10&custom_title=Atividade%20dos%20%C3%BAltimos%2031%20dias" alt="Gráfico de atividade" width="100%" />
 
 </div>
 
