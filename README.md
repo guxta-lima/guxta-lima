@@ -1,51 +1,87 @@
-# 📚 Gustavo Henrique Mota Lima
+<div align="center">
 
-**Estudante de Tecnologia da Informação — ADS na FATEC Itapetininga**
+<img src="./assets/banner.svg" alt="Banner do perfil" width="100%" />
 
-Este é meu perfil de **estudos**: aqui ficam os projetos das disciplinas, os
-exercícios de fundamentos e as coisas que escrevo pra aprender. Minha área é
-desenvolvimento, suporte técnico e informática administrativa.
+<br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00FF9C&center=true&vCenter=true&width=620&lines=estudante+de+ADS+na+FATEC+Itapetininga;Java%2C+Spring+Boot%2C+C%2B%2B+e+Python;desenvolvimento%2C+suporte+t%C3%A9cnico+e+infra" alt="" />
 
----
-
-
-### 🎓 Formação
-
-- 🏫 **FATEC — Faculdade de Tecnologia de Itapetininga**
-  *Tecnologia em Análise e Desenvolvimento de Sistemas (ADS)* — em andamento
-- 🏫 **Instituto Federal**
-  *Técnico em Informática* (ITP.TEC.INF.2019)
-- 📜 **Grupo Microflex**
-  Informática Avançada (Pacote Office) · Design e Layout (CorelDRAW, Photoshop)
+</div>
 
 ---
 
-### 🧩 No que estou mexendo
+### `$ cat sobre.md`
 
-- **Java & Spring Boot:** aplicação web MVC com JPA, Thymeleaf e MySQL —
-  entidades, repositórios e controllers separados, com o banco modelado em SQL.
-- **Fundamentos:** estruturas de dados e algoritmos em **C++**, implementados do
-  zero pra entender o custo de cada operação.
-- **Web & back-end:** **JavaScript** e **Node.js/Express** para APIs e painéis,
-  HTML e CSS nas interfaces.
-- **Dados:** **Python** para cálculo e análise, bancos relacionais (**MySQL**,
-  **PostgreSQL** via Supabase) e NoSQL (**Firebase**).
-- **Sistemas:** **Linux** por terminal e suporte técnico em ambiente Windows.
+Gustavo Henrique Mota Lima. Estudante de **Análise e Desenvolvimento de Sistemas**
+na FATEC Itapetininga, com formação técnica em Informática pelo Instituto Federal.
+Minha área é desenvolvimento, suporte técnico e informática administrativa.
 
----
+- Hoje estou construindo o **byte-games** — loja de games em Spring Boot 3, com
+  vitrine, busca, carrinho em sessão e CRUD de produtos, categorias e FAQ.
+- Estudando **estruturas de dados e algoritmos em C++**, implementados do zero
+  pra entender o custo de cada operação.
+- Aberto a conversar sobre **Java, back-end e suporte técnico**.
+- Pergunte-me sobre qualquer coisa em `#backend` ou `#suporte`.
 
-### 🛠️ Ferramentas
+<br/>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### `$ ls ./stack`
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<p>
+  <img src="https://img.shields.io/badge/Java-07100C?style=for-the-badge&logo=openjdk&logoColor=00FF9C&labelColor=07100C" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-07100C?style=for-the-badge&logo=springboot&logoColor=00FF9C&labelColor=07100C" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/C%2B%2B-07100C?style=for-the-badge&logo=cplusplus&logoColor=00FF9C&labelColor=07100C" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-07100C?style=for-the-badge&logo=python&logoColor=00FF9C&labelColor=07100C" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-07100C?style=for-the-badge&logo=javascript&logoColor=00FF9C&labelColor=07100C" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-07100C?style=for-the-badge&logo=nodedotjs&logoColor=00FF9C&labelColor=07100C" alt="Node.js" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/MySQL-07100C?style=for-the-badge&logo=mysql&logoColor=00FF9C&labelColor=07100C" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-07100C?style=for-the-badge&logo=postgresql&logoColor=00FF9C&labelColor=07100C" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-07100C?style=for-the-badge&logo=supabase&logoColor=00FF9C&labelColor=07100C" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Firebase-07100C?style=for-the-badge&logo=firebase&logoColor=00FF9C&labelColor=07100C" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Linux-07100C?style=for-the-badge&logo=linux&logoColor=00FF9C&labelColor=07100C" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-07100C?style=for-the-badge&logo=git&logoColor=00FF9C&labelColor=07100C" alt="Git" />
+</p>
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<br/>
 
----
+### `$ ./stats --live`
 
-### 📫 Contato
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavohenriquemotalima)
-[![GitHub Profissional](https://img.shields.io/badge/-Perfil%20Profissional-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Guxtastak)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=guxta-lima&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=07100C&title_color=00FF9C&icon_color=00FF9C&text_color=9FE8C4&ring_color=00FF9C" alt="Estatísticas do GitHub" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guxta-lima&layout=compact&langs_count=8&hide_border=true&bg_color=07100C&title_color=00FF9C&text_color=9FE8C4" alt="Linguagens mais usadas" />
+
+<br/>
+
+<img height="165" src="https://streak-stats.demolab.com?user=guxta-lima&hide_border=true&background=07100C&stroke=1D3A2C&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=9FE8C4&currStreakNum=E6FFF4&sideNums=E6FFF4&dates=4F8C74" alt="Sequência de contribuições" />
+
+</div>
+
+<br/>
+
+### `$ ./contribuicoes --animado`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/guxta-lima/guxta-lima/output/snake.svg" alt="Cobrinha comendo o gráfico de contribuições" width="100%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=guxta-lima&bg_color=07100C&color=9FE8C4&line=00FF9C&point=E6FFF4&area=true&area_color=00FF9C&hide_border=true&radius=10&custom_title=Atividade%20dos%20%C3%BAltimos%2031%20dias" alt="Gráfico de atividade" width="100%" />
+
+</div>
+
+<br/>
+
+### `$ ./contato`
+
+<p>
+  <a href="https://www.linkedin.com/in/gustavohenriquemotalima"><img src="https://img.shields.io/badge/LinkedIn-07100C?style=for-the-badge&logo=linkedin&logoColor=00FF9C&labelColor=07100C" alt="LinkedIn" /></a>
+  <a href="mailto:gustavomota.suport@gmail.com"><img src="https://img.shields.io/badge/E--mail-07100C?style=for-the-badge&logo=gmail&logoColor=00FF9C&labelColor=07100C" alt="E-mail" /></a>
+</p>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=guxta-lima&color=00ff9c&style=flat-square&label=visitas+neste+perfil" alt="Contador de visitas" />
+</div>

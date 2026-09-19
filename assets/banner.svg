@@ -1,0 +1,140 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="260" viewBox="0 0 880 260"
+     role="img" aria-label="GUSTAVO LIMA — Estudante de ADS na FATEC  //  Itapetininga, SP">
+  <title>GUSTAVO LIMA — Estudante de ADS na FATEC  //  Itapetininga, SP</title>
+
+  <defs>
+    <linearGradient id="fundo" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#08140E"/>
+      <stop offset="55%" stop-color="#07100C"/>
+      <stop offset="100%" stop-color="#050C09"/>
+    </linearGradient>
+
+    <radialGradient id="brilho" cx="18%" cy="30%" r="70%">
+      <stop offset="0%" stop-color="#00FF9C" stop-opacity="0.13"/>
+      <stop offset="100%" stop-color="#00FF9C" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="varredura" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#00FF9C" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00FF9C" stop-opacity="0.09"/>
+      <stop offset="100%" stop-color="#00FF9C" stop-opacity="0"/>
+    </linearGradient>
+
+    <pattern id="grade" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#00FF9C" opacity="0.07"/>
+    </pattern>
+
+    <filter id="neon" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="neon-fraco" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <clipPath id="janela"><rect x="1" y="1" width="878" height="258" rx="15"/></clipPath>
+    <clipPath id="clip-cmd"><rect x="34" y="70" height="24" width="0">
+      <animate attributeName="width" dur="10.0s" repeatCount="indefinite"
+               calcMode="discrete" values="0;9.62;19.23;28.85;38.46;48.08;57.70;67.31;76.93;86.54;96.16;105.78;115.39;125.01;134.62;144.24;153.86;163.47;163.47" keyTimes="0;0.0471;0.0541;0.0612;0.0682;0.0753;0.0824;0.0894;0.0965;0.1035;0.1106;0.1176;0.1247;0.1318;0.1388;0.1459;0.1529;0.1600;1"/>
+    </rect></clipPath>
+    <clipPath id="clip-nome"><rect x="34" y="104" height="58" width="0">
+      <animate attributeName="width" dur="10.0s" repeatCount="indefinite"
+               calcMode="discrete" values="0;26.44;52.89;79.33;105.78;132.22;158.66;185.11;211.55;238.00;264.44;290.88;317.33;317.33" keyTimes="0;0.2117;0.2233;0.2350;0.2467;0.2583;0.2700;0.2817;0.2933;0.3050;0.3167;0.3283;0.3400;1"/>
+    </rect></clipPath>
+  </defs>
+
+  <g clip-path="url(#janela)">
+    <rect width="880" height="260" fill="url(#fundo)"/>
+    <rect width="880" height="260" fill="url(#grade)"/>
+    <rect width="880" height="260" fill="url(#brilho)"/>
+
+    <rect x="0" y="-80" width="880" height="80" fill="url(#varredura)">
+      <animate attributeName="y" dur="10.0s" repeatCount="indefinite"
+               values="-80;260" keyTimes="0;1"/>
+    </rect>
+
+    <!-- barra da janela -->
+    <rect x="0" y="0" width="880" height="34" fill="#0B1A14"/>
+    <line x1="0" y1="34" x2="880" y2="34" stroke="#1D3A2C"/>
+    <circle cx="22" cy="17" r="5" fill="#FF5F57"/>
+    <circle cx="40" cy="17" r="5" fill="#FEBC2E"/>
+    <circle cx="58" cy="17" r="5" fill="#28C840"/>
+    <text x="440.0" y="21" text-anchor="middle" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,monospace" font-size="11.5"
+          fill="#4F8C74">guxta-lima — zsh — 80x24</text>
+
+    <!-- linha de comando -->
+    <g clip-path="url(#clip-cmd)">
+      <text x="34" y="86" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,monospace" font-size="16" fill="#9FE8C4">
+        <tspan fill="#00FF9C">$</tspan> ./whoami --live
+      </text>
+    </g>
+
+    <!-- cursor -->
+    <rect y="72" width="9.6" height="18" fill="#00FF9C" x="34">
+      <animate attributeName="x" dur="10.0s" repeatCount="indefinite"
+               calcMode="discrete" values="34.00;43.62;53.23;62.85;72.46;82.08;91.70;101.31;110.93;120.54;130.16;139.78;149.39;159.01;168.62;178.24;187.86;197.47;197.47" keyTimes="0;0.0471;0.0541;0.0612;0.0682;0.0753;0.0824;0.0894;0.0965;0.1035;0.1106;0.1176;0.1247;0.1318;0.1388;0.1459;0.1529;0.1600;1"/>
+      <animate attributeName="opacity" dur="1.05s" repeatCount="indefinite"
+               calcMode="discrete" values="1;0" keyTimes="0;0.5"/>
+    </rect>
+
+    <!-- nome -->
+    <g clip-path="url(#clip-nome)" filter="url(#neon)">
+      <text x="34" y="148" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,monospace" font-size="44"
+            font-weight="700" letter-spacing="1.5" fill="#E6FFF4">GUSTAVO LIMA</text>
+    </g>
+    <rect x="34" y="160" width="0" height="2" fill="#00FF9C" opacity="0.55">
+      <animate attributeName="width" dur="10.0s" repeatCount="indefinite"
+               values="0;0;325.3;325.3;0"
+               keyTimes="0;0.2000;0.3400;0.955;1"/>
+    </rect>
+
+    <!-- cargo -->
+    <text x="34" y="182" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,monospace" font-size="15"
+          fill="#9FE8C4" opacity="0" filter="url(#neon-fraco)">
+      Estudante de ADS na FATEC  //  Itapetininga, SP
+      <animate attributeName="opacity" dur="10.0s" repeatCount="indefinite"
+               values="0;0;0.92;0.92;0"
+               keyTimes="0;0.3700;0.4200;0.955;1"/>
+    </text>
+
+  <g opacity="0">
+    <animate attributeName="opacity" dur="10.0s" repeatCount="indefinite"
+             values="0;0;1;1;0" keyTimes="0;0.4100;0.4550;0.955;1"/>
+    <rect x="34.0" y="206" width="90.9" height="26" rx="13.0"
+          fill="#0C2018" stroke="#1D3A2C"/>
+    <circle cx="47.0" cy="219.0" r="3.5" fill="#00FF9C">
+      <animate attributeName="opacity" dur="2.2s" repeatCount="indefinite" values="1;0.25;1"/>
+    </circle>
+    <text x="56.0" y="223.2" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,monospace"
+          font-size="12" fill="#9FE8C4">estudando</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" dur="10.0s" repeatCount="indefinite"
+             values="0;0;1;1;0" keyTimes="0;0.4280;0.4730;0.955;1"/>
+    <rect x="134.9" y="206" width="105.3" height="26" rx="13.0"
+          fill="#0C2018" stroke="#1D3A2C"/>
+    <circle cx="147.9" cy="219.0" r="3.5" fill="#00FF9C">
+      <animate attributeName="opacity" dur="2.2s" repeatCount="indefinite" values="1;0.25;1"/>
+    </circle>
+    <text x="156.9" y="223.2" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,monospace"
+          font-size="12" fill="#9FE8C4">construindo</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" dur="10.0s" repeatCount="indefinite"
+             values="0;0;1;1;0" keyTimes="0;0.4460;0.4910;0.955;1"/>
+    <rect x="250.2" y="206" width="98.1" height="26" rx="13.0"
+          fill="#0C2018" stroke="#1D3A2C"/>
+    <circle cx="263.2" cy="219.0" r="3.5" fill="#00FF9C">
+      <animate attributeName="opacity" dur="2.2s" repeatCount="indefinite" values="1;0.25;1"/>
+    </circle>
+    <text x="272.2" y="223.2" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,monospace"
+          font-size="12" fill="#9FE8C4">publicando</text>
+  </g>
+
+    <rect x="0.5" y="0.5" width="879" height="259" rx="15" fill="none" stroke="#1D3A2C"/>
+  </g>
+</svg>
