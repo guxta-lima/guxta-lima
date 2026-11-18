@@ -10,7 +10,7 @@
 
 ---
 
-### `$ cat sobre.md`
+
 
 Gustavo Henrique Mota Lima. Estudante de **Análise e Desenvolvimento de Sistemas**
 na FATEC Itapetininga, com formação técnica em Informática pelo Instituto Federal.
@@ -24,7 +24,7 @@ Minha área é desenvolvimento, suporte técnico e informática administrativa.
 
 <br/>
 
-### `$ ls ./stack`
+
 
 <p>
   <img src="https://img.shields.io/badge/Java-07100C?style=for-the-badge&logo=openjdk&logoColor=00FF9C&labelColor=07100C" alt="Java" />
@@ -45,7 +45,7 @@ Minha área é desenvolvimento, suporte técnico e informática administrativa.
 
 <br/>
 
-### `$ ./stats --live`
+
 
 <div align="center">
 
@@ -60,7 +60,7 @@ Minha área é desenvolvimento, suporte técnico e informática administrativa.
 
 <br/>
 
-### `$ ./contribuicoes --animado`
+
 
 <div align="center">
 
@@ -70,7 +70,7 @@ Minha área é desenvolvimento, suporte técnico e informática administrativa.
 
 <br/>
 
-### `$ ./contato`
+
 
 <p>
   <a href="https://www.linkedin.com/in/gustavohenriquemotalima"><img src="https://img.shields.io/badge/LinkedIn-07100C?style=for-the-badge&logo=linkedin&logoColor=00FF9C&labelColor=07100C" alt="LinkedIn" /></a>
